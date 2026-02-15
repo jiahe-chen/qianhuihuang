@@ -21,7 +21,7 @@ repository               : "jiahe-chen/qianhuihuang"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpeg"
   name             : "Qianhui (Amy) Huang"
   pronouns         : "she/her"  
   bio              : "Undergraduate student at Duke Kunshan University"
