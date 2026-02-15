@@ -11,6 +11,10 @@ author_profile: true
 *B.A. in Global China Studies (Chinese History), 2022 - 2026*
 
 - Research focus: Pre-modern Chinese drama, Kunqu 昆曲
+- Mentored by Prof. Kim Hunter Gordon, Assistant Professor of Chinese and Performance Studies at Duke Kunshan University
 
-## Suzhou High School
+## The Suzhou High School of Jiangsu Province
 *2019 - 2022*
+
+- Liberal track (文科生)
+- Gaokao (National College Entrance Examination) top 1% from Jiangsu Province
