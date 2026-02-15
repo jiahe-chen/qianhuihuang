@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qianhui Huang / Site Title"
+title                    : "Qianhui Amy Huang's Personal Website"
 title_separator          : "-"
-name                     : &name "Qianhui Huang"
+name                     : &name "Qianhui (Amy) Huang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Qianhui Huang"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hey there! I'm Qianhui (Amy) Huang, a undergraduate student at Duke Kunshan University. My research focuses on pre-modern Chinese drama, specifically in Kunqu 昆曲. I am also an amateur Kunqu performer."
   location         : "Suzhou, China"
   afflication      : "Duke Kunshan University"
   uri              : # URL
